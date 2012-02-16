@@ -38,3 +38,5 @@ $(document).ready(function() {
   $(".slideshow").trigger("update")
 });
 ```
+
+Depends on the helper utils in `class-helpers-jquery.js`
